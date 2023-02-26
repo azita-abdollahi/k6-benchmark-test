@@ -1,0 +1,11 @@
+version: '3'
+services: 
+  apiservice:
+    image: api
+    container_name: apigateway
+    build: 
+      context: .
+    restart: on-failure
+    ports:
+      - 3001:3001
+    
