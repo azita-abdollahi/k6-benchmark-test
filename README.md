@@ -59,6 +59,8 @@ docker compose up -d
 
 4. in left sidebar, click on dashboards, in search bar write your dashboard name(for example in this repo: search K6 Load Testing Results)
 
+For more detail check the [**Here**](https://github.com/azita-abdollahi/k6-benchmark-test/wiki)
+
 
 
 ## Reference:
